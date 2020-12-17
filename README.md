@@ -1,6 +1,9 @@
 # DKU_Celestial_Classification
 단국소중 천체분류대회
 
+R : 전처리
+
+
 최종 우수상
 
 단국대학교 SW융합대학교 주최 천체분류 대회
