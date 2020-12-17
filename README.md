@@ -1,7 +1,7 @@
 # DKU_Celestial_Classification
 단국소중 천체분류대회
 
-R : 전처리
+R : 전처리 / Python : 모델링
 
 
 최종 우수상
